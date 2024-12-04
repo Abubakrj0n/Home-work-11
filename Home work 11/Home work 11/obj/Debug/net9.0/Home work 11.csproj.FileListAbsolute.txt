@@ -1,0 +1,14 @@
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/bin/Debug/net9.0/Home work 11
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/bin/Debug/net9.0/Home work 11.deps.json
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/bin/Debug/net9.0/Home work 11.runtimeconfig.json
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/bin/Debug/net9.0/Home work 11.dll
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/bin/Debug/net9.0/Home work 11.pdb
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.GeneratedMSBuildEditorConfig.editorconfig
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.AssemblyInfoInputs.cache
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.AssemblyInfo.cs
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.csproj.CoreCompileInputs.cache
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.dll
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/refint/Home work 11.dll
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.pdb
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/Home work 11.genruntimeconfig.cache
+/home/abubakr/Рабочий стол/Home work/Home work 11/Home work 11/obj/Debug/net9.0/ref/Home work 11.dll
